@@ -1,4 +1,4 @@
-# How AI Is Changing Student Life in India
+## **How AI Is Changing Student Life in India**
 
 ## Data Analysis Report
 
