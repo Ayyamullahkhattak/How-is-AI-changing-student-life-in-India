@@ -207,6 +207,7 @@ No individual AI tool appears to be disproportionately favored by one gender ove
 ---
 
 # 📊 Dashboard
+![Dashboard](Dashboard/dashboard.png)
 
 The project includes a consolidated dashboard combining the analyses into a single view.
 
